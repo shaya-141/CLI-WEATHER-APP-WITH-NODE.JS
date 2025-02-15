@@ -45,7 +45,17 @@ ex weather Karachi
 💧 Humidity: 60%
 👀 Visibility: 10000 meters
 ```
+---
+
+## 🛠️ Technologies Used
+-  Node.js
+-  Axios (for API calls) 
+-  Chalk (for colorful terminal output)
+-  Boxen (for stylish terminal boxes)
+-  dotenv (for environment variables)
+
+---
 
 
-
+## Made with ❤️ by Muhammad Shayan 
 
