@@ -1,0 +1,19 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "Weather CLI app",
+  "main": "app.js",
+  "bin": {
+    "weather": "./app.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "boxen": "^8.0.1",
+    "chalk": "^4.1.2",
+    "dotenv": "^16.4.7",
+    "inquirer": "^12.4.1"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
