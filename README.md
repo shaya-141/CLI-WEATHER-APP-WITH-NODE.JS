@@ -5,7 +5,7 @@ Styled with **chalk** and **boxen** for a beautiful terminal experience. 🚀
 
 ---
 
-## 📌 Features  
+## 📌   
 - ✅ Fetch real-time weather of any city  
 - ✅ Shows **temperature, weather condition, wind speed, humidity, and visibility**  
 - ✅ **Pretty terminal output** using `chalk` and `boxen`  
